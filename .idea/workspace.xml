@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8b8dda03-da48-44bb-82ac-e6e52dc16ef8" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/interfaces/MyRentApp.java" afterPath="$PROJECT_DIR$/src/interfaces/MyRentApp.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/interfaces/ResidenceActivity.java" afterPath="$PROJECT_DIR$/src/interfaces/ResidenceActivity.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,11 +16,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TextWatcher.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TextWatcher.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/interfaces/TextWatcher.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state relative-caret-position="170">
+              <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
               <folding>
                 <element signature="e#241#242#0" expanded="true" />
                 <element signature="e#284#285#0" expanded="true" />
@@ -32,18 +31,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ResidenceActivity.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ResidenceActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/interfaces/ResidenceActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="7" lean-forward="false" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+            <state relative-caret-position="306">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding>
-                <element signature="e#607#608#0" expanded="true" />
-                <element signature="e#663#664#0" expanded="true" />
-                <element signature="e#697#698#0" expanded="true" />
-                <element signature="e#762#763#0" expanded="true" />
-                <element signature="e#811#812#0" expanded="true" />
-                <element signature="e#861#862#0" expanded="true" />
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#178#179#0" expanded="true" />
+                <element signature="e#267#268#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -92,10 +88,10 @@
         <option value="$PROJECT_DIR$/src/TextWatcher.java" />
         <option value="$PROJECT_DIR$/src/MyRentApp.java" />
         <option value="$PROJECT_DIR$/src/ResidenceActivity.java" />
-        <option value="$PROJECT_DIR$/src/interfaces/TextWatcher.java" />
         <option value="$PROJECT_DIR$/src/interfaces/MyRentApp.java" />
         <option value="$PROJECT_DIR$/src/interfaces/TextView.java" />
         <option value="$PROJECT_DIR$/src/interfaces/ResidenceActivity.java" />
+        <option value="$PROJECT_DIR$/src/interfaces/TextWatcher.java" />
       </list>
     </option>
   </component>
@@ -652,16 +648,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1507288439790</updated>
-      <workItem from="1507288443397" duration="2763000" />
+      <workItem from="1507288443397" duration="3861000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2763000" />
+    <option name="totallyTimeSpent" value="3861000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -675,7 +670,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -717,19 +712,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/interfaces/TextWatcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding>
-            <element signature="e#241#242#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
-            <element signature="e#393#394#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/interfaces/MyRentApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -748,15 +730,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/interfaces/ResidenceActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="7" lean-forward="false" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding>
-            <element signature="e#607#608#0" expanded="true" />
-            <element signature="e#663#664#0" expanded="true" />
-            <element signature="e#697#698#0" expanded="true" />
-            <element signature="e#762#763#0" expanded="true" />
-            <element signature="e#811#812#0" expanded="true" />
-            <element signature="e#861#862#0" expanded="true" />
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interfaces/TextWatcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+          <folding>
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
           </folding>
         </state>
       </provider>
