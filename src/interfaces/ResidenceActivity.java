@@ -1,8 +1,26 @@
 package interfaces;
 
-public class ResidenceActivity implements interfaces.TextWatcher {
+public class ResidenceActivity {
 
-    long dateTextChanged;
+    TextView textView = new TextView();     //Declare and initialize a TextView field in ResidenceActivity.
+
+    public ResidenceActivity() {
+
+        //using an anonymous class
+        textView.addTextChangedListener(new TextWatcher() {
+
+            @Override
+            public void afterTextChanged() {
+                System.out.println("Text changed");
+
+            }
+
+        });
+
+        //using a lambda
+        textView.addTextChangedListener(() -> System.out.println("Text changed"));
+
+    }
 
     @Override
     public void afterTextChanged() {
